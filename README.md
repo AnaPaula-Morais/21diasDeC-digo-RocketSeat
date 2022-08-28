@@ -1,2 +1,2 @@
-# 21diasDeC-digo-RocketSeat
+# 21diasDeCodigo-RocketSeat
 Desafio 21 dias de código da Rocketseat
